@@ -1,5 +1,4 @@
 %% August 2019, Mona Omidyeganeh
-%HYP_mergedContours_20190613_idx12_2019-06-27T12_28_39.obj
 %
 % This function evaluates the effect of deformation on CIVET/FS results
 % i.e. thicknesses for deformed vs. the unaltered IBIS-Phantom/ICBM datasets
