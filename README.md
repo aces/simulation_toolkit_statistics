@@ -18,3 +18,5 @@ NOTE 2: Four cubic ROIs are selected and the deformation are applied in these ar
 NOTE 3: This function uses SrfStat toolbox:
             http://www.math.mcgill.ca/keith/surfstat/
 
+The resulting subtle, localized changes in the cortex in the four ROIs used in the present work is shown in videos which can be accessed on the GitHub repository:
+https://github.com/aces/Simulation-toolkit/tree/monaomid-Sample-Videos-of-ROIs
