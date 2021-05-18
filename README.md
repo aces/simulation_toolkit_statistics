@@ -17,7 +17,7 @@ NOTE 2: Four cubic ROIs are selected and the deformation are applied in these ar
             ROI4: Superior Temporal area
 NOTE 3: This function uses SrfStat toolbox:
             http://www.math.mcgill.ca/keith/surfstat/
-NOTE 4: The unaltered and deformed surfaces are available at CBRAIN portal: https://portal.cbrain.mcgill.ca/ in cortical deformation project.
+NOTE 4: The unaltered and deformed volumes are available at CBRAIN portal: https://portal.cbrain.mcgill.ca/ in cortical deformation project.
 
 The resulting subtle, localized changes in the cortex in the four ROIs used in the present work is shown in videos which can be accessed on the GitHub repository:
 https://github.com/aces/Simulation-toolkit/tree/monaomid-Sample-Videos-of-ROIs
