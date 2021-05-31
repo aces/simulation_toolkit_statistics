@@ -104,7 +104,7 @@
 
 
 %% Main Function
-function sta=statisticalanalysis(pipelinen, csv_filename, meter, sm_fwhm, ptv, ttv, c_centre, roi_right, roi_left,output_folder,roi_size)
+function sta=statistical_analysis_mOmid(pipelinen, csv_filename, meter, sm_fwhm, ptv, ttv, c_centre, roi_right, roi_left,output_folder,roi_size)
 close all;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
