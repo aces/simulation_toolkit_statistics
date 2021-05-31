@@ -19,7 +19,7 @@ Supported Versions CIVET: 2.0,2.1.0,2.1.1 and FreeSurfer 5.3 and 6.0
 
 
 The resulting subtle, localized changes in the cortex in the four ROIs used in the present work is shown in videos which can be accessed on the GitHub repository:
-https://github.com/aces/Simulation_toolkit_statistics/Sample-Videos-of-ROIsFour cubic ROIs are selected and the deformation are applied in these areas (in STEROTAXIC space) (top/left/back coordinates)
+https://github.com/aces/simulation_toolkit_statistics/tree/master/Sample-Videos-of-ROIs cubic ROIs are selected and the deformation are applied in these areas (in STEROTAXIC space) (top/left/back coordinates)
             ROI1: Sensory area (x,y,z:w) 11,-11,72
             ROI2: ACC (x,y,z:w) 8,44,8
             ROI3: Precuneus (x,y,z:w) -2,-63,35
